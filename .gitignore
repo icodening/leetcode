@@ -12,3 +12,5 @@ buildNumber.properties
 *.idea
 out
 *.iml
+*.hprof
+.DS_store
