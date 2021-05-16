@@ -49,6 +49,7 @@ public class RemoveDuplicates {
 
     public static void main(String[] args) {
         int[] ints = {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
+        removeDuplicates(ints);
         System.out.println(Arrays.toString(ints));
     }
 
